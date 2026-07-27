@@ -1,4 +1,4 @@
-from pydantic_systemd import *  # noqa
+from pydantic_systemd import *
 
 
 def test_all():
